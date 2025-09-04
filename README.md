@@ -8,18 +8,14 @@
   </a>
 </p>
 
-<!-- GitHub markdown sanitization removes CSS flexbox so I resort to janky tables here -->
-<table border-style="none">
-  <tr>
-    <td width="50%">
-      <img src="/github-metrics.svg" alt="Metrics" width="400px">
-    </td>
-    <td width="50%">
-      <blockquote>
-        By the turn of the century it was an institution, an image of man, a tradition, a code of honor, a source of poetry, a nursery of boyhood desires, a sublimest of toys, and the most solemn machine - next to a funeral hearse - that marks the epochs in a man's life.
-      </blockquote>
-      <p align="right">-- Jacques Barzun</p>
-    </td>
-  </tr>
-</table>
+<p width="80%">
+  <blockquote>
+    By the turn of the century it was an institution, an image of man, a tradition, a code of honor, a source of poetry, a nursery of boyhood desires, a sublimest of toys, and the most solemn machine - next to a funeral hearse - that marks the epochs in a man's life.
+    <p align="center">-- Jacques Barzun</p>
+  </blockquote>
+</p>
 
+<p align="center">
+  <img src="/github-metrics.svg" alt="My GitHub Metrics" width="500px">
+  <img src="/github-activity.svg" alt="My Recent Activity" width="500px">
+</p>
