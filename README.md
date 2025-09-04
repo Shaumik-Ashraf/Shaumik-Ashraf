@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <img src="/github-metrics.svg" alt="My GitHub Metrics" width="500px">
-  <img src="/github-activity.svg" alt="My Recent Activity" width="500px">
+  <img src="/github-metrics.svg" alt="My GitHub Metrics" width="400px">
+  <img src="/github-activity.svg" alt="My Recent Activity" width="400px">
 </p>
 
 <!--
