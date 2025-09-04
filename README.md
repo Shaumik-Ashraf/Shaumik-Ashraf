@@ -4,7 +4,7 @@
   </a>
 
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,react,nextjs,nodejs,js,dotnet,java,html,sass,bootstrap,tailwind,wasm,nginx,bash,linux,debian,ubuntu,aws,heroku,git,emacs,vscodium,anaconda,py,pytorch,regex,sqlite,postgres,redis" alt="My Skills"/>
+    <img src="https://skillicons.dev/icons?i=ruby,rails,react,nextjs,nodejs,js,dotnet,java,html,sass,bootstrap,tailwind,wasm,nginx,bash,linux,debian,ubuntu,aws,heroku,git,emacs,vscodium,anaconda,py,pytorch,regex,sqlite,postgres,redis" alt="I have skills in Ruby on Rails, NextJS, Dotnet, Java, web development, linux, cloud platforms, data analysis, AI, and databases."/>
   </a>
 </p>
 
@@ -19,3 +19,11 @@
   <img src="/github-metrics.svg" alt="My GitHub Metrics" width="500px">
   <img src="/github-activity.svg" alt="My Recent Activity" width="500px">
 </p>
+
+<!--
+  Special thanks to lowlighter, DenverCoder1, tandpfun, and rzashakeri for making this README possible!
+    https://github.com/lowlighter/metrics/
+    https://github.com/DenverCoder1/readme-typing-svg
+    https://github.com/tandpfun/skill-icons
+    https://github.com/rzashakeri/beautify-github-profile
+  -->
