@@ -1,5 +1,5 @@
-# Reference: https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
-name: Metrics
+# Reference: https://github.com/lowlighter/metrics/blob/master/source/plugins/activity/README.md
+name: Activity
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -17,4 +17,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: github-activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 90
+          plugin_activity_filter: all
