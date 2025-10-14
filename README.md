@@ -15,10 +15,13 @@
   </blockquote>
 </p>
 
-<p align="center">
-  <img src="/github-metrics.svg" alt="My GitHub Metrics" width="400px">
-  <img src="/github-activity.svg" alt="My Recent Activity" width="400px">
-</p>
+<!-- FIXME: github-activity image renders error despite action succeeding; alternatively remove because it's redundant
+     but then the actions should be removed too.
+  <p align="center">
+    <img src="/github-metrics.svg" alt="My GitHub Metrics" width="400px">
+    <img src="/github-activity.svg" alt="My Recent Activity" width="400px">
+  </p>
+  -->
 
 <!--
   Special thanks to lowlighter, DenverCoder1, tandpfun, and rzashakeri for making this README possible!
