@@ -15,8 +15,10 @@
   </blockquote>
 </p>
 
-<!-- FIXME: github-activity image renders error despite action succeeding; alternatively remove because it's redundant
-     but then the actions should be removed too.
+<!--
+  Disabled images and github actions that auto-update images every day.
+  To re-add these images Uncomment below and enable .github/workflows/* files
+
   <p align="center">
     <img src="/github-metrics.svg" alt="My GitHub Metrics" width="400px">
     <img src="/github-activity.svg" alt="My Recent Activity" width="400px">
